@@ -1,0 +1,69 @@
+# Capstoneproject
+Project Listing 
+# Property Analytics Dashboard
+
+## Project Overview
+This Power BI dashboard analyzes residential property listings and provides insights into property pricing, rental yields, geographic trends, and scenario-based market value projections.
+
+## Features
+- KPI Cards
+- Geographic Analysis
+- Property Feature Analysis
+- Price Comparison
+- Scenario Insights (What-If Analysis)
+
+## Tools Used
+- Power BI Desktop
+- DAX
+- Power Query
+- GitHub
+
+## Dashboard Pages
+
+### 1. KPI Cards
+Displays:
+- Total Properties
+- Average Price
+- Average Market Estimate
+- Average Rent Yield
+
+### 2. Geographic Analysis
+Displays:
+- Property prices by state
+- Rent estimates by city
+- Geographic distribution of listings
+
+### 3. Property Feature Analysis
+Displays:
+- Area vs Price scatter plot
+- PricePerSqFt distribution
+
+### 4. Price Comparison
+Top 20 properties showing:
+- Price
+- Market Estimate
+- Rent Estimate
+- Price Variance
+- Rent Yield
+
+### 5. Scenario Insights
+Interactive What-If analysis using PricePerSqFt adjustments:
+- Projected Market Value
+- Adjusted Rent Yield
+
+## Dataset
+- Approximately 24,500 property records
+- Includes location, pricing, rent, area, and property features
+
+## DAX Measures
+- Average Price
+- Price Variance
+- Rent Yield
+- Projected Market Value
+- Adjusted Rent Yield
+
+## Author
+Leela Modani
+
+## Academic Project
+BCA Capstone Project – 2026
